@@ -1,0 +1,6 @@
+/Users/Noha/Desktop/Capstone/ConverterToPigLatin/ConverterToPigLatin/bin/Debug/ConverterToPigLatin.exe
+/Users/Noha/Desktop/Capstone/ConverterToPigLatin/ConverterToPigLatin/bin/Debug/ConverterToPigLatin.pdb
+/Users/Noha/Desktop/Capstone/ConverterToPigLatin/ConverterToPigLatin/obj/x86/Debug/ConverterToPigLatin.csprojAssemblyReference.cache
+/Users/Noha/Desktop/Capstone/ConverterToPigLatin/ConverterToPigLatin/obj/x86/Debug/ConverterToPigLatin.csproj.CoreCompileInputs.cache
+/Users/Noha/Desktop/Capstone/ConverterToPigLatin/ConverterToPigLatin/obj/x86/Debug/ConverterToPigLatin.exe
+/Users/Noha/Desktop/Capstone/ConverterToPigLatin/ConverterToPigLatin/obj/x86/Debug/ConverterToPigLatin.pdb
